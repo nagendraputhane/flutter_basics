@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Hello extends StatelessWidget{
+class LocationDetail extends StatelessWidget{
 
   @override
   Widget build(BuildContext context) {
@@ -8,6 +8,6 @@ class Hello extends StatelessWidget{
       appBar: AppBar(
         title: Text('Hello'),
       ),
-      body: Text('This is some text. Welcome to my app'));
+      body: Text(''));
   }
 }
