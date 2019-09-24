@@ -8,7 +8,7 @@ class LocationDetail extends StatelessWidget{
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Hello'),
+        title: Text('Location Detail'),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.start,
